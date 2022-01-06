@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#pero-color{
+    color: rgb(248, 171, 77);
+
+}
+h1{
+    font-size: 50px;
+}
+section{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 1.5%;
+    display:flex;
+}
+
+.half-width {
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(252, 77, 77);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background-color: black;
+}
+strong{
+    color: rgb(245, 77, 77);
+}
+.mission h1{
+    text-align: center;
+}
+#gray{
+    background-color: rgb(204, 193, 193);
+    padding: 20px;
+    margin-right: 20px;
+    height: 500px;
+}
+#green{
+    background-color: rgb(182, 245, 182);
+    padding: 20px;
+    margin-right: 20px;
+    height: 500px;
+
+}
+#red{
+    background-color: rgb(255, 164, 164);
+    padding: 20px;
+    margin-right: 20px;
+    height: 500px;
+
+}
+#shape{
+    position:relative;
+
+}
+#shaped-image{
+    position:absolute;
+    width:23%;
+    top:26%;
+    left: -13%;
+    z-index: -1;
+}
